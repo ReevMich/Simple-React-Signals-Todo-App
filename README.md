@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+<img width="937" alt="image" src="https://github.com/ReevMich/Simple-React-Signals-Todo-App/assets/7333415/91dd36f3-8ab6-4149-a4ff-2fd9ddce1371">
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
